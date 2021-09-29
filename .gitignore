@@ -11,6 +11,8 @@ tmp/
 
 # мои файлы
 .vscode/
+githubkey.txt
+githubkey.txt.pub
 # файлы, начинающиеся с тильды
 ~*.*
 
